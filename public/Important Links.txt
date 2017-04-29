@@ -1,0 +1,8 @@
+https://www.linkedin.com/developer/apps
+https://apps.twitter.com/app/new
+https://developers.facebook.com/apps
+https://github.com/settings/applications/new
+https://console.developers.google.com
+
+
+This is a demo of Laravel Socialite Package. In this project I have implemented Social Authentication with Google Plus, Facebook, LinkedIn, Github, Twitter. User can easily Sing in with their Social Media Account. 
